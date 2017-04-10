@@ -1,6 +1,6 @@
 > 免责声明：本项目旨在学习Scrapy爬虫框架和MongoDB数据库，不可使用于商业和个人其他意图。若使用不当，均由个人承担。
 
-<img src="https://github.com/xiyouMc/PornHubBot/blob/master/img/PornHubCode.png?raw=true" width = "800" height = "400" alt="图片名称" align=center />
+<img src="https://github.com/xiyouMark/WebBot/blob/master/img/PornHubCode.png?raw=true" width = "800" height = "400" alt="图片名称" align=center />
 
 
 ## 简介
@@ -38,8 +38,8 @@
 * python PornHub/quickstart.py
 
 ## 运行截图
-![](https://github.com/xiyouMc/PornHubBot/blob/master/img/running.png?raw=true)
-![](https://github.com/xiyouMc/PornHubBot/blob/master/img/mongodb.png?raw=true)
+![](https://github.com/xiyouMark/WebBot/blob/master/img/running.png?raw=true)
+![](https://github.com/xiyouMark/WebBot/blob/master/img/mongodb.png?raw=true)
 
 ## 数据库说明
 
